@@ -19,5 +19,5 @@ Une fois le visionnement fait, suivez les instructions suivantes:
 ```Git
 git add . &&
 git commit -m"Prototype 1 - Google Maps API Key a été intégré" &&
-git push origin master
+git push
 ```
