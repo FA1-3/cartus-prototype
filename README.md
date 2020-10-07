@@ -22,3 +22,5 @@ git add . &&
 git commit -m"Prototype 1 - Google Maps API Key a été intégré" &&
 git push
 ```
+## Mockups
+![Cartus](https://github.com/FA1-3/cartus-prototype/blob/main/screencapture-app-moqups-l10uLuYS0B-view-page-ae8fe8eb0-2020-10-06-22_53_41-edit.png)
